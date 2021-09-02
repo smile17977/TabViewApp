@@ -10,30 +10,30 @@
 		0E4A7F8826E0A2A4000B9261 /* Mocks.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E4A7F8726E0A2A4000B9261 /* Mocks.swift */; };
 		0E4A7F8B26E0A2BF000B9261 /* ChemicalElement.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E4A7F8A26E0A2BF000B9261 /* ChemicalElement.swift */; };
 		0E4A7F8E26E0A2E8000B9261 /* ChemicalElement + Mock.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E4A7F8D26E0A2E8000B9261 /* ChemicalElement + Mock.swift */; };
-		0E4A7F9326E0A356000B9261 /* ModalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E4A7F9226E0A356000B9261 /* ModalView.swift */; };
-		0E4A7F9626E0A364000B9261 /* ChemicalElementDetailsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E4A7F9526E0A364000B9261 /* ChemicalElementDetailsView.swift */; };
-		0E4A7F9926E0A38C000B9261 /* StartView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E4A7F9826E0A38C000B9261 /* StartView.swift */; };
-		0E4A7F9C26E0A39F000B9261 /* ElementsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E4A7F9B26E0A39F000B9261 /* ElementsView.swift */; };
-		0E8F33EE26E01DB300A820A0 /* TabViewAppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E8F33ED26E01DB300A820A0 /* TabViewAppApp.swift */; };
-		0E8F33F026E01DB300A820A0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E8F33EF26E01DB300A820A0 /* ContentView.swift */; };
 		0E8F33F226E01DB400A820A0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0E8F33F126E01DB400A820A0 /* Assets.xcassets */; };
 		0E8F33F526E01DB400A820A0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0E8F33F426E01DB400A820A0 /* Preview Assets.xcassets */; };
+		0ED090C726E0A74A00E5AA2B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0ED090C626E0A74A00E5AA2B /* ContentView.swift */; };
+		0ED090C926E0A75C00E5AA2B /* ElementsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0ED090C826E0A75C00E5AA2B /* ElementsView.swift */; };
+		0ED090CD26E0A77700E5AA2B /* StartView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0ED090CC26E0A77700E5AA2B /* StartView.swift */; };
+		0ED090CF26E0A79100E5AA2B /* TabViewApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0ED090CE26E0A79100E5AA2B /* TabViewApp.swift */; };
+		0ED090D126E0A7AD00E5AA2B /* ModalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0ED090D026E0A7AD00E5AA2B /* ModalView.swift */; };
+		0ED090D326E0A7D600E5AA2B /* ChemicalElementDetailsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0ED090D226E0A7D600E5AA2B /* ChemicalElementDetailsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		0E4A7F8726E0A2A4000B9261 /* Mocks.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mocks.swift; sourceTree = "<group>"; };
 		0E4A7F8A26E0A2BF000B9261 /* ChemicalElement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChemicalElement.swift; sourceTree = "<group>"; };
 		0E4A7F8D26E0A2E8000B9261 /* ChemicalElement + Mock.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ChemicalElement + Mock.swift"; sourceTree = "<group>"; };
-		0E4A7F9226E0A356000B9261 /* ModalView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModalView.swift; sourceTree = "<group>"; };
-		0E4A7F9526E0A364000B9261 /* ChemicalElementDetailsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChemicalElementDetailsView.swift; sourceTree = "<group>"; };
-		0E4A7F9826E0A38C000B9261 /* StartView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartView.swift; sourceTree = "<group>"; };
-		0E4A7F9B26E0A39F000B9261 /* ElementsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ElementsView.swift; sourceTree = "<group>"; };
 		0E8F33EA26E01DB300A820A0 /* TabViewApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TabViewApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		0E8F33ED26E01DB300A820A0 /* TabViewAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabViewAppApp.swift; sourceTree = "<group>"; };
-		0E8F33EF26E01DB300A820A0 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		0E8F33F126E01DB400A820A0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0E8F33F426E01DB400A820A0 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		0E8F33F626E01DB400A820A0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0ED090C626E0A74A00E5AA2B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		0ED090C826E0A75C00E5AA2B /* ElementsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ElementsView.swift; sourceTree = "<group>"; };
+		0ED090CC26E0A77700E5AA2B /* StartView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartView.swift; sourceTree = "<group>"; };
+		0ED090CE26E0A79100E5AA2B /* TabViewApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabViewApp.swift; sourceTree = "<group>"; };
+		0ED090D026E0A7AD00E5AA2B /* ModalView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModalView.swift; sourceTree = "<group>"; };
+		0ED090D226E0A7D600E5AA2B /* ChemicalElementDetailsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChemicalElementDetailsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,12 +76,12 @@
 		0E8F33EC26E01DB300A820A0 /* TabViewApp */ = {
 			isa = PBXGroup;
 			children = (
-				0E8F33ED26E01DB300A820A0 /* TabViewAppApp.swift */,
-				0E8F33EF26E01DB300A820A0 /* ContentView.swift */,
-				0E4A7F9826E0A38C000B9261 /* StartView.swift */,
-				0E4A7F9B26E0A39F000B9261 /* ElementsView.swift */,
-				0E4A7F9226E0A356000B9261 /* ModalView.swift */,
-				0E4A7F9526E0A364000B9261 /* ChemicalElementDetailsView.swift */,
+				0ED090C626E0A74A00E5AA2B /* ContentView.swift */,
+				0ED090CE26E0A79100E5AA2B /* TabViewApp.swift */,
+				0ED090D026E0A7AD00E5AA2B /* ModalView.swift */,
+				0ED090CC26E0A77700E5AA2B /* StartView.swift */,
+				0ED090D226E0A7D600E5AA2B /* ChemicalElementDetailsView.swift */,
+				0ED090C826E0A75C00E5AA2B /* ElementsView.swift */,
 				0E4A7F9026E0A30D000B9261 /* Model */,
 				0E8F33F126E01DB400A820A0 /* Assets.xcassets */,
 				0E8F33F626E01DB400A820A0 /* Info.plist */,
@@ -167,15 +167,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0E4A7F9326E0A356000B9261 /* ModalView.swift in Sources */,
+				0ED090CD26E0A77700E5AA2B /* StartView.swift in Sources */,
+				0ED090D326E0A7D600E5AA2B /* ChemicalElementDetailsView.swift in Sources */,
 				0E4A7F8B26E0A2BF000B9261 /* ChemicalElement.swift in Sources */,
-				0E8F33F026E01DB300A820A0 /* ContentView.swift in Sources */,
-				0E4A7F9926E0A38C000B9261 /* StartView.swift in Sources */,
-				0E4A7F9C26E0A39F000B9261 /* ElementsView.swift in Sources */,
-				0E8F33EE26E01DB300A820A0 /* TabViewAppApp.swift in Sources */,
+				0ED090C926E0A75C00E5AA2B /* ElementsView.swift in Sources */,
+				0ED090C726E0A74A00E5AA2B /* ContentView.swift in Sources */,
 				0E4A7F8826E0A2A4000B9261 /* Mocks.swift in Sources */,
-				0E4A7F9626E0A364000B9261 /* ChemicalElementDetailsView.swift in Sources */,
+				0ED090D126E0A7AD00E5AA2B /* ModalView.swift in Sources */,
 				0E4A7F8E26E0A2E8000B9261 /* ChemicalElement + Mock.swift in Sources */,
+				0ED090CF26E0A79100E5AA2B /* TabViewApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
